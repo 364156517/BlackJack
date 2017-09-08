@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pig Game</string>
+    <string name="instruction">"This is a simple BlackJack game. The player1 pick cards first until he gets the score he wants, then player 2 start picking card. if they all have score that under 21. the player who has bigger score wins.if one of the player gets the score over 21, another player wins."</string>
+    <string name="dialog_text">"This is a simple BlackJack game. The player1 pick cards first until he gets the score he wants, then player 2 start picking card. if they all have score that under 21. the player who has bigger score wins.if one of the player gets the score over 21, another player wins."</string>
+    <string name="game_instruction" />
+    <string-array name="background_keys">
+    <item >Theme1</item>
+    <item >Theme2</item>
+    <item >Theme3</item>
+    </string-array>
+    <string-array name="background_values">
+        <item >0</item>
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+
+</resources>
